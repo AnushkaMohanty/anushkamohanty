@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **Mern, Web Dev, DSA**
+- 💬 Ask me about **Mern,Web Dev,DSA**
 
 - 📫 How to reach me **anushka0327l@gmail.com**
 
