@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anushka Mohanty from India</h1>
+<h1 align="center">Hi 👋, I'm Anushka Mohanty</h1>
 <h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkamohanty&label=Profile%20views&color=0e75b6&style=flat" alt="anushkamohanty" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **Mern,Web Dev**
+- 💬 Ask me about **Mern, Web Dev, DSA**
 
 - 📫 How to reach me **anushka0327l@gmail.com**
 
